@@ -1,1 +1,1 @@
-console.log("fuk");
+console.log("Ayyyy, lmao");
